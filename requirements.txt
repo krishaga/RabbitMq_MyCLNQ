@@ -1,3 +1,5 @@
 fastapi
 uvicorn
-pika
+pika 
+motor 
+pydantic
